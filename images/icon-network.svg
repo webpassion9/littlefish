@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="63" height="96.255" viewBox="0 0 63 96.255">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Прямоугольник_149" data-name="Прямоугольник 149" width="63" height="96.255" fill="#fa4616"/>
+    </clipPath>
+  </defs>
+  <g id="Сгруппировать_256" data-name="Сгруппировать 256" transform="translate(0 0)">
+    <g id="Сгруппировать_255" data-name="Сгруппировать 255" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <path id="Контур_558" data-name="Контур 558" d="M31.147,7.652a22.71,22.71,0,1,1-22.71,22.71,22.735,22.735,0,0,1,22.71-22.71m0-7.652A30.361,30.361,0,1,0,61.508,30.361,30.36,30.36,0,0,0,31.147,0" transform="translate(0.354 0)" fill="#fa4616"/>
+      <rect id="Прямоугольник_142" data-name="Прямоугольник 142" width="47.482" height="4.782" transform="translate(7.994 15.765)" fill="#fa4616"/>
+      <rect id="Прямоугольник_143" data-name="Прямоугольник 143" width="47.482" height="4.782" transform="translate(7.994 27.97)" fill="#fa4616"/>
+      <rect id="Прямоугольник_144" data-name="Прямоугольник 144" width="47.482" height="4.782" transform="translate(7.994 40.176)" fill="#fa4616"/>
+      <path id="Контур_559" data-name="Контур 559" d="M19.73,57.323a58.117,58.117,0,0,1-7-27.7A60.143,60.143,0,0,1,19.715,1.638l4.13,2.411L21.781,2.844l2.066,1.2a56.312,56.312,0,0,0-6.331,25.576,54.247,54.247,0,0,0,6.317,25.243Z" transform="translate(5.741 0.739)" fill="#fa4616"/>
+      <path id="Контур_560" data-name="Контур 560" d="M27.167,57.323l-4.1-2.461a54.242,54.242,0,0,0,6.315-25.24A56.281,56.281,0,0,0,23.05,4.046l4.132-2.408a60.123,60.123,0,0,1,6.981,27.985,58.1,58.1,0,0,1-7,27.7" transform="translate(10.391 0.739)" fill="#fa4616"/>
+      <rect id="Прямоугольник_145" data-name="Прямоугольник 145" width="20.98" height="20.516" transform="translate(21.011 75.74)" fill="#fa4616"/>
+      <rect id="Прямоугольник_146" data-name="Прямоугольник 146" width="10.723" height="15.852" transform="translate(26.139 65.771)" fill="#fa4616"/>
+      <rect id="Прямоугольник_147" data-name="Прямоугольник 147" width="15.852" height="10.724" transform="translate(47.148 80.636)" fill="#fa4616"/>
+      <rect id="Прямоугольник_148" data-name="Прямоугольник 148" width="15.854" height="10.724" transform="translate(0 80.636)" fill="#fa4616"/>
+    </g>
+  </g>
+</svg>
